@@ -1,7 +1,7 @@
 # Laravel Real-Time Chat Application
 
 <p align="center">
-<img src="storage/app/public/Preview-UI.png" alt="Chat Application Preview" width="800">
+<img src="public/Preview.png" alt="Chat Application Preview" width="800">
 </p>
 
 ## About The Project
